@@ -1,4 +1,4 @@
-# This repo houses all of the data models for the soccer database project
+# This repo acts as a SOR for all data models and SQL used in the real estate Snowflake DB.
 
 to run all of the sql scripts
 
