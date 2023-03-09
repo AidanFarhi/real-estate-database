@@ -7,3 +7,7 @@ to run all of the sql scripts
 to run all of the tests
 
 `dbt test`
+
+### ER Diagram
+
+![ER Diagram](/images/Real_Estate_DB_ERD.jpeg)
